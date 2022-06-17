@@ -1,4 +1,4 @@
-# Challenge-02: Web Page Accessibility
+# Web Page Accessibility
 
 ## Project Description:
 This Challenge was the first homework assignment of the UTA-Bootcamp. Our task was to refactor an exisiting wepage to improve its accessibility. It was completed using semantic HTML and CSS elements.
